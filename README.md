@@ -37,8 +37,6 @@
 
 ## API Documentation
 
-Hosted on netlify: [Coming Soon]()
-
 Extensive and testing documentation with postman: [VueTube API](https://documenter.getpostman.com/view/9407876/SzYaVdtC?version=latest)
 
 ## Database Model
@@ -129,18 +127,6 @@ node run dev
 ### Sign Up
 
 ![Screenshot](screenshots/21%20-%20Sign%20up.jpg)
-
-### Home Page
-
-![Screenshot](screenshots/1%20-%20Home.jpg)
-
-### Watch Page
-
-![Screenshot](screenshots/7%20-%20Watch.jpg)
-
-### Upload Thumbnail Modal
-
-![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
 
 ## License
 
